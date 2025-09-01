@@ -1,9 +1,15 @@
 <div align="center">
+    <img src="https://github.com/aohitsugi/aohitsugi/blob/main/1500x500.png?raw=true" width="auto" height="150">
+<br>
+    Joseph 18 He/She System 
+<br>
+    ESTP 8w7 873 Sp/Sx Chol
+<br>
+  <a href="https://joseph.crd.co">CARRD</a> 
+  <a href="https://joseph.atabook.org">ATABOOK</a>  
+  <a href="https://twitter.com/wolftroject">TWITTER</a> 
+<br>
+<br>
     
-  <a href="https://joseph.crd.co">carrd</a>
-  <a href="https://joseph.atabook.org">atabook</a> 
-  <a href="https://twitter.com/wolftroject">twitter</a>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=etihsia&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=etihsia&redirect=true)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aohitsugi&label=VIEWS&color=000000&style=for-the-badge"/> </p>
 </div>
