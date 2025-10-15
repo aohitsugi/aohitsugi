@@ -11,5 +11,5 @@
 <br>
 <br>
     
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aohitsugi&label=VIEWS&color=000000&style=for-the-badge"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aohitsugi&label=VIEWS&color=000000&style=for-the-badge&abbreviated=true"/> </p>
 </div>
