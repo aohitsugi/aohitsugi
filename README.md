@@ -3,9 +3,10 @@
     <br>
     Joseph 18 He/She System ESTP 8w7 873 Sp/Sx
 <br>
-  <a href="https://joseph.crd.co">CARRD</a> 
-  <a href="https://joseph.atabook.org">ATABOOK</a>  
   <a href="https://twitter.com/wlfkoga">TWITTER</a> 
+  <a href="https://discord.com/users/809293152707543051">DISCORD</a>
+     <a href="https://joseph.crd.co">CARRD</a> 
+  <a href="https://joseph.atabook.org">ATABOOK</a>  
 <br>
 <br>
     
